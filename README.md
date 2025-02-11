@@ -7,7 +7,6 @@ CATEGORIES ::
   1.c - vivado introduction to FPGA-HLS [High_Level_Synthesis].
 
 2.Language Reference manuals [LRMs].
-
   2.a - Verilog LRM standard 1364-2005.
   2.b - Accellera LRM System Verilog 3.1a.
   2.c - IEEE 1800-2023 System Verilog LRM.
